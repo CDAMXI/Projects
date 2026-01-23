@@ -67,3 +67,4 @@ Each project reflects my curiosity, problem-solving skills, and passion for buil
 ---
 
 🧩 *Always learning, always building.*
+# Projects
