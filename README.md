@@ -42,17 +42,6 @@ This repository reflects a hands-on, engineering-driven approach to learning: wr
 
 ---
 
-<details>
-<summary><b>🎓 Courses</b></summary>
-
-| Course | Description | Status |
-|-------|-------------|--------|
-| **Harvard CS50: AI with Python** | Practical implementation of search algorithms, Minimax, and introductory AI models, with a strong focus on problem-solving and algorithmic thinking. | In progress |
-
-</details>
-
----
-
 ## 🚀 Currently Working On
 
 - Extending and refining projects from the Harvard CS50 AI course  
