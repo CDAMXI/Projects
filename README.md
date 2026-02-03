@@ -5,32 +5,28 @@ This repository reflects a hands-on, engineering-driven approach to learning: wr
 
 ---
 
-<details>
-<summary><b>🕹️ Games</b> · <a href="https://github.com/CDAMXI/Projects/tree/main/Games">View category</a></summary>
+## 🕹️ Games  
+🔗 https://github.com/CDAMXI/Projects/tree/main/Games
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | **GuessTheNumber** | Console-based number guessing game implementing control flow, input validation, and configurable difficulty through limited and unlimited attempts. | Java |
 | **TicTacToe** | Turn-based Tic-Tac-Toe game focused on game logic, state management, and user interaction in a clean and modular structure. | Python |
 
-</details>
-
 ---
 
-<details>
-<summary><b>🧰 Tools</b> · <a href="https://github.com/CDAMXI/Projects/tree/main/Tools">View category</a></summary>
+## 🧰 Tools  
+🔗 https://github.com/CDAMXI/Projects/tree/main/Tools
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | **CurrencyConverter** | Command-line tool that converts between world currencies using live exchange rates retrieved from public APIs. Emphasizes API consumption and data handling. | Python |
 | **UnitConverter** | Utility for converting between common measurement units (length, weight, temperature), focusing on clear logic and extensibility. | Python |
 
-</details>
-
 ---
 
-<details>
-<summary><b>🌐 Others</b> · <a href="https://github.com/CDAMXI/Projects/tree/main/Others">View category</a></summary>
+## 🌐 Others  
+🔗 https://github.com/CDAMXI/Projects/tree/main/Others
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
@@ -38,16 +34,13 @@ This repository reflects a hands-on, engineering-driven approach to learning: wr
 | **NextMatchRequest** | Script that retrieves upcoming matches for any team across Europe’s top five football leagues, with emphasis on data retrieval and processing. | Python |
 | **Patterns** | Program that generates multiple star (`*`) patterns from a given positive integer, focusing on loops, conditions, and output formatting. | Python |
 
-</details>
-
 ---
 
-## 🚀 Currently Working On
+## 🎓 Courses
 
-- Extending and refining projects from the Harvard CS50 AI course  
-- Exploring Python automation and data visualization workflows  
-- Improving code readability, structure, and documentation across existing projects  
-- Adding new low-level experiments and learning exercises to **C-Playground**
+| Course | Description | Status |
+|-------|-------------|--------|
+| **Harvard CS50: AI with Python** | Practical implementation of search algorithms, Minimax, and introductory AI models, with a strong focus on problem-solving and algorithmic thinking. | In progress |
 
 ---
 
