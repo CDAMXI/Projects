@@ -27,9 +27,16 @@ This repository reflects a hands-on, engineering-driven approach to learning: wr
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
+| **[BinaryToInteger](https://github.com/CDAMXI/Projects/tree/main/Others/BinaryToInteger)** | Small focused exercise/utility (see folder for details). | — |
 | **[C-Playground](https://github.com/CDAMXI/Projects/tree/main/Others/C-Playground)** | Experimental environment for low-level programming in C, covering algorithms, recursion, memory management, and process-related concepts. | C |
-| **[NextMatchRequest](https://github.com/CDAMXI/Projects/tree/main/Others/NextMatchRequest)** | Script that retrieves upcoming matches for any team across Europe’s top five football leagues, with emphasis on data retrieval and processing. | Python |
+| **[CalculateLetterInSpanishID](https://github.com/CDAMXI/Projects/tree/main/Others/CalculateLetterInSpanishID)** | Small focused exercise/utility (see folder for details). | — |
+| **[CompareNames](https://github.com/CDAMXI/Projects/tree/main/Others/CompareNames)** | Small focused exercise/utility (see folder for details). | — |
+| **[CosmicTimeConverter](https://github.com/CDAMXI/Projects/tree/main/Others/CosmicTimeConverter)** | Small focused exercise/utility (see folder for details). | — |
+| **[IntegerToBinary](https://github.com/CDAMXI/Projects/tree/main/Others/IntegerToBinary)** | Small focused exercise/utility (see folder for details). | — |
+| **[NextMatchRequest](https://github.com/CDAMXI/Projects/tree/main/Others/NextMatchRequest)** | Script that retrieves upcoming matches for any team across the top 5 European leagues, with emphasis on data retrieval and processing. | Python |
+| **[NthFibNum](https://github.com/CDAMXI/Projects/tree/main/Others/NthFibNum)** | Small focused exercise/utility (see folder for details). | — |
 | **[Patterns](https://github.com/CDAMXI/Projects/tree/main/Others/Patterns)** | Program that generates multiple star (`*`) patterns from a given positive integer, focusing on loops, conditions, and output formatting. | Python |
+| **[ValidSpanishID](https://github.com/CDAMXI/Projects/tree/main/Others/ValidSpanishID)** | Small focused exercise/utility (see folder for details). | — |
 
 ---
 
