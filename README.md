@@ -1,41 +1,42 @@
 # 🧠 Personal Projects
 
-Welcome to my collection of personal projects — a space where I explore ideas, build tools, and apply what I learn from different courses and experiences.
+A curated collection of personal software projects where I design, build, and refine solutions to strengthen my foundations in Computer Science and Software Engineering.  
+This repository reflects a hands-on, engineering-driven approach to learning: writing code, testing ideas, and improving through iteration.
 
 ---
 
 <details>
-<summary><b>🕹️ Games</b></summary>
+<summary><b>🕹️ Games</b> · <a href="https://github.com/CDAMXI/Projects/tree/main/Games">View category</a></summary>
 
 | Project | Description | Technologies |
-|----------|--------------|---------------|
-| [GuessTheNumber](https://github.com/CDAMXI/Proyects/tree/main/Games/GuessTheNumber) | Classic Guess the number game with limited and unlimited attempts. | Java |
-| [TicTacToe](https://github.com/CDAMXI/Proyects/tree/main/Games/TicTacToe) | Classic Tic-Tac-Toe you can play with your friends. | Python |
+|--------|-------------|--------------|
+| **GuessTheNumber** | Console-based number guessing game implementing control flow, input validation, and configurable difficulty through limited and unlimited attempts. | Java |
+| **TicTacToe** | Turn-based Tic-Tac-Toe game focused on game logic, state management, and user interaction in a clean and modular structure. | Python |
 
 </details>
 
 ---
 
 <details>
-<summary><b>🧰 Tools</b></summary>
+<summary><b>🧰 Tools</b> · <a href="https://github.com/CDAMXI/Projects/tree/main/Tools">View category</a></summary>
 
 | Project | Description | Technologies |
-|----------|--------------|---------------|
-| [CurrencyConverter](https://github.com/CDAMXI/Proyects/tree/main/Tools/CurrencyConverter) | Converts between world currencies using live exchange rates via public APIs. | Python |
-| [UnitConverter](https://github.com/CDAMXI/Proyects/tree/main/Tools/UnitConverter) | Converts between multiple measurement units such as length, weight, and temperature. | Python |
+|--------|-------------|--------------|
+| **CurrencyConverter** | Command-line tool that converts between world currencies using live exchange rates retrieved from public APIs. Emphasizes API consumption and data handling. | Python |
+| **UnitConverter** | Utility for converting between common measurement units (length, weight, temperature), focusing on clear logic and extensibility. | Python |
 
 </details>
 
 ---
 
 <details>
-<summary><b>🌐 Others</b></summary>
+<summary><b>🌐 Others</b> · <a href="https://github.com/CDAMXI/Projects/tree/main/Others">View category</a></summary>
 
 | Project | Description | Technologies |
-|----------|--------------|---------------|
-| [C-Playground](https://github.com/CDAMXI/Proyects/tree/main/Others/C-Playground) | A playground for experimenting with C — from algorithms and recursion to system-level programming and process management. | C |
-| [NextMatchRequest](https://github.com/CDAMXI/Proyects/tree/main/Others/Football/NextMatchRequest) | Fetches upcoming matches for any team across the top 5 European leagues. | Python |
-| [Patterns](https://github.com/CDAMXI/Proyects/tree/main/Others/Patterns) | Given any positive int, it will output 9 patterns using '*'. | Python |
+|--------|-------------|--------------|
+| **C-Playground** | Experimental environment for low-level programming in C, covering algorithms, recursion, memory management, and process-related concepts. | C |
+| **NextMatchRequest** | Script that retrieves upcoming matches for any team across Europe’s top five football leagues, with emphasis on data retrieval and processing. | Python |
+| **Patterns** | Program that generates multiple star (`*`) patterns from a given positive integer, focusing on loops, conditions, and output formatting. | Python |
 
 </details>
 
@@ -45,26 +46,24 @@ Welcome to my collection of personal projects — a space where I explore ideas,
 <summary><b>🎓 Courses</b></summary>
 
 | Course | Description | Status |
-|--------|--------------|--------|
-| [Harvard CS50: AI with Python](https://github.com/CDAMXI/Proyects/tree/main/Courses/Harvard_AI) | Implementing search algorithms, Minimax, and basic AI models in Python. | 🟢 In progress |
+|-------|-------------|--------|
+| **Harvard CS50: AI with Python** | Practical implementation of search algorithms, Minimax, and introductory AI models, with a strong focus on problem-solving and algorithmic thinking. | In progress |
 
 </details>
 
 ---
 
-### 🚧 Currently Working On
-- Expanding the Harvard AI course projects (Search, Minesweeper, and more)
-- Exploring new ideas in Python automation and data visualization
-- Improving code readability and documentation across all projects
-- Adding new experiments and exercises to the **C-Playground**
+## 🚀 Currently Working On
+
+- Extending and refining projects from the Harvard CS50 AI course  
+- Exploring Python automation and data visualization workflows  
+- Improving code readability, structure, and documentation across existing projects  
+- Adding new low-level experiments and learning exercises to **C-Playground**
 
 ---
 
-### 📚 About This Repository
-This repository serves as a **personal lab** where I apply concepts from my degree in Computer Science and from independent learning platforms such as edX and Coursera.  
-Each project reflects my curiosity, problem-solving skills, and passion for building clean, efficient, and functional software.
+## 👨‍💻 About
 
----
+This repository acts as my personal engineering lab, where I apply concepts from my Computer Science degree alongside independent learning from platforms such as edX and Coursera.  
 
-🧩 *Always learning, always building.*
-# Projects
+Each project is intentionally scoped to reinforce core principles—problem decomposition, algorithmic thinking, and clean code—while maintaining a focus on correctness, clarity, and continuous improvement.
