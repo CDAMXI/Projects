@@ -1,6 +1,6 @@
-package Others.Patterns;
+package Patterns;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Patterns {
 

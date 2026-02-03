@@ -4,16 +4,15 @@ import java.util.Scanner;
 
 public class CalculateLetterInSpanishIDv1 {
     public static void main(String[] args){
-        Scanner kbd = new Scanner(System.in);
-        try{
-            System.out.print("Input: ");
-            int input = kbd.nextInt();
-            System.out.println("Output: " + calculateLetterInSpanish(input));
-        } catch(Exception e) {
-            System.out.println("Invalid input. Please enter an 8-digit number.");
-        }
-        kbd.close();
-    }
+        try(Scanner kbd = new Scanner(System.in)) {
+            try{
+                System.out.print("Input: ");
+                int input = kbd.nextInt();
+                System.out.println("Output: " + calculateLetterInSpanish(input));
+            } catch(Exception e) {
+                System.out.println("Invalid input. Please enter an 8-digit number.");
+            }
+        }    }
 
     public static String calculateLetterInSpanish(int n){
         if (String.valueOf(n).length() != 8) {

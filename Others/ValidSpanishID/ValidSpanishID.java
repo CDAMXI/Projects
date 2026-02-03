@@ -2,16 +2,17 @@ import java.util.*;
 
 public class ValidSpanishID{
     public static void main(String[] args) {
-        Scanner kbd = new Scanner(System.in);
-        while(true){
-            System.out.print("Enter a Spanish ID (or 'exit' to quit): ");
-            String id = kbd.nextLine();
-            if (id.equalsIgnoreCase("exit")) {
-                break; // Exit the loop if user types 'exit'
+        try (Scanner kbd = new Scanner(System.in)) {
+            while (true) {
+                System.out.print("Enter a Spanish ID (or 'exit' to quit): ");
+                String id = kbd.nextLine();
+                if (id.equalsIgnoreCase("exit")) {
+                    break; // Exit the loop if user types 'exit'
+                }
+                System.out.println(isValidSpanishID(id)); // Output: true or false based on validity
             }
-            System.out.println(isValidSpanishID(id)); // Output: true or false based on validity
+            // Close the scanner to prevent resource leaks
         }
-        kbd.close(); // Close the scanner to prevent resource leaks
     }
 
     public static boolean isValidSpanishID(String id){
