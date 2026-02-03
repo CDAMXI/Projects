@@ -42,6 +42,12 @@ This repository reflects a hands-on, engineering-driven approach to learning: wr
 
 ## 👨‍💻 About
 
-This repository acts as my personal engineering lab, where I apply concepts from my Computer Science degree alongside independent learning from platforms such as edX and Coursera.
+## 👨‍💻 About
+
+This repository acts as my personal engineering lab, where I explore and implement software ideas that arise from curiosity, problem-solving, and continuous practice.
+
+Projects range from small focused exercises to more complete utilities, each designed to reinforce core Computer Science concepts such as algorithmic thinking, control flow, data handling, and code structure.
+
+The goal is not polish for production, but consistent hands-on learning, experimentation, and incremental improvement through real code.
 
 Projects are intentionally scoped to reinforce core engineering principles—problem decomposition, algorithmic thinking, and clean, maintainable code—while prioritizing correctness, clarity, and continuous improvement.
