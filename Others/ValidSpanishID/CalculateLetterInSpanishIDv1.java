@@ -1,5 +1,3 @@
-package CalculateLetterInSpanishID;
-
 import java.util.Scanner;
 
 public class CalculateLetterInSpanishIDv1 {
