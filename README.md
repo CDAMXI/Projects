@@ -13,7 +13,6 @@
 
 ![Python](https://img.shields.io/badge/Python-1F4E79?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-7F1D1D?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-334155?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
@@ -66,12 +65,6 @@
 ### [NthFibNum](https://github.com/CDAMXI/Projects/tree/main/Others/NthFibNum)
 > Implementations of the N-th Fibonacci number exploring iterative approaches and input validation.  
 > **Tech:** Java · Python
-
----
-
-### [C-Playground](https://github.com/CDAMXI/Projects/tree/main/Others/C-Playground)
-> Low-level experiments in C: recursion, memory management, algorithms, and process-related concepts.  
-> **Tech:** C
 
 ---
 
