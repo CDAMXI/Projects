@@ -45,13 +45,7 @@
 ---
 
 ### [ValidSpanishID](https://github.com/CDAMXI/Projects/tree/main/Others/ValidSpanishID)
-> Validates Spanish ID numbers combining control-letter logic with structured input checks.  
-> **Tech:** Java · Python
-
----
-
-### [CalculateLetterInSpanishID](https://github.com/CDAMXI/Projects/tree/main/Others/CalculateLetterInSpanishID)
-> Computes the control letter of a Spanish ID number. Focuses on validation logic and error handling.  
+> Validates Spanish ID numbers and computes their control letter. Combines input validation, error handling, and control-letter logic.  
 > **Tech:** Java · Python
 
 ---
