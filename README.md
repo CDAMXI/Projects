@@ -1,49 +1,89 @@
-# 🧠 Personal Projects
+<!-- Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B3C5D,100:1F4E79&height=180&section=header&text=Projects&fontSize=42&fontColor=ffffff&fontAlignY=40)
 
-A curated collection of personal software projects where I design, build, and refine solutions to strengthen my foundations in Computer Science and Software Engineering.  
-This repository reflects a hands-on, engineering-driven approach to learning: writing code, testing ideas, and improving through iteration.
+## 🏗️ Personal Projects — CDAMXI
 
----
-
-## 🕹️ [Games](https://github.com/CDAMXI/Projects/tree/main/Games)
-
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| **[GuessTheNumber](https://github.com/CDAMXI/Projects/tree/main/Games/GuessTheNumber)** | Console-based number guessing game implementing control flow, input validation, and configurable difficulty through limited and unlimited attempts. | Java |
-| **[TicTacToe](https://github.com/CDAMXI/Projects/tree/main/Games/TicTacToe)** | Turn-based Tic-Tac-Toe game focused on game logic, state management, and user interaction in a clean and modular structure. | Java |
+> A collection of small projects and prototypes built across multiple languages.  
+> Covers games, utilities, algorithms, and low-level programming exercises.  
+> The goal is consistent practice and hands-on learning, not production-level polish.
 
 ---
 
-## 🧰 [Tools](https://github.com/CDAMXI/Projects/tree/main/Tools)
+## ⚙️ Languages Used
 
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| **[CurrencyConverter](https://github.com/CDAMXI/Projects/tree/main/Tools/CurrencyConverter)** | Command-line tool that converts between world currencies using live exchange rates retrieved from public APIs. Emphasizes API consumption and data handling. | Python |
-| **[UnitConverter](https://github.com/CDAMXI/Projects/tree/main/Tools/UnitConverter)** | Utility for converting between common measurement units (length, weight, temperature), focusing on clear logic and extensibility. | Python |
-
----
-
-## 🌐 [Others](https://github.com/CDAMXI/Projects/tree/main/Others)
-
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| **[BinaryToInteger](https://github.com/CDAMXI/Projects/tree/main/Others/BinaryToInteger)** | Binary-to-decimal conversion utilities implemented to compare approaches and input handling across languages. | Java · Python |
-| **[C-Playground](https://github.com/CDAMXI/Projects/tree/main/Others/C-Playground)** | Experimental environment for low-level programming, focusing on algorithms, recursion, memory management, and process-related concepts. | C |
-| **[CalculateLetterInSpanishID](https://github.com/CDAMXI/Projects/tree/main/Others/CalculateLetterInSpanishID)** | Utility to compute the control letter of a Spanish ID, emphasizing validation logic and error handling. | Java · Python |
-| **[CompareNames](https://github.com/CDAMXI/Projects/tree/main/Others/CompareNames)** | String comparison exercises exploring conditional logic, normalization, and input processing. | Java · Python |
-| **[CosmicTimeConverter](https://github.com/CDAMXI/Projects/tree/main/Others/CosmicTimeConverter)** | Time conversion utility with a playful domain, focused on arithmetic operations and clean function design. | Python |
-| **[IntegerToBinary](https://github.com/CDAMXI/Projects/tree/main/Others/IntegerToBinary)** | Decimal-to-binary conversion implementations exploring iterative and alternative approaches. | Java · Python |
-| **[NextMatchRequest](https://github.com/CDAMXI/Projects/tree/main/Others/NextMatchRequest)** | Script that retrieves upcoming matches for a given team across the top five European football leagues. | Python |
-| **[NthFibNum](https://github.com/CDAMXI/Projects/tree/main/Others/NthFibNum)** | Implementations of the N-th Fibonacci number focusing on algorithmic thinking and input validation. | Java · Python |
-| **[Patterns](https://github.com/CDAMXI/Projects/tree/main/Others/Patterns)** | Pattern-generation programs using `*`, designed to practice loops, conditionals, and output formatting. | Java · Python |
-| **[ValidSpanishID](https://github.com/CDAMXI/Projects/tree/main/Others/ValidSpanishID)** | Validator for Spanish ID numbers, combining control-letter logic with structured input checks. | Java · Python |
+![Python](https://img.shields.io/badge/Python-1F4E79?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7F1D1D?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-334155?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-## 👨‍💻 About
+## 🕹️ Games
 
-This repository acts as my personal engineering lab, where I explore and implement software ideas that arise from curiosity, problem-solving, and continuous practice.
+### [GuessTheNumber](https://github.com/CDAMXI/Projects/tree/main/Games/GuessTheNumber)
+> Console game implementing control flow, input validation, and configurable difficulty via limited or unlimited attempts.  
+> **Tech:** Java
 
-Projects range from small, focused exercises to more complete utilities, each designed to reinforce core Computer Science concepts such as algorithmic thinking, control flow, data handling, and code structure.
+---
 
-The goal is not production-level polish, but consistent hands-on learning, experimentation, and incremental improvement through real code.
+### [TicTacToe](https://github.com/CDAMXI/Projects/tree/main/Games/TicTacToe)
+> Turn-based Tic-Tac-Toe focused on game state management, logic separation, and clean user interaction.  
+> **Tech:** Java
+
+---
+
+## 🧰 Tools
+
+### [CurrencyConverter](https://github.com/CDAMXI/Projects/tree/main/Tools/CurrencyConverter)
+> CLI tool that fetches live exchange rates from a public API to convert between world currencies.  
+> **Tech:** Python
+
+---
+
+### [UnitConverter](https://github.com/CDAMXI/Projects/tree/main/Tools/UnitConverter)
+> Converts between common measurement units (length, weight, temperature). Designed for extensibility.  
+> **Tech:** Python
+
+---
+
+## 🌐 Others
+
+### [ValidSpanishID / CalculateLetterInSpanishID](https://github.com/CDAMXI/Projects/tree/main/Others/ValidSpanishID)
+> Validates Spanish ID numbers and computes their control letter. Emphasizes validation logic, error handling, and cross-language comparison.  
+> **Tech:** Java · Python
+
+---
+
+### [NextMatchRequest](https://github.com/CDAMXI/Projects/tree/main/Others/NextMatchRequest)
+> Retrieves upcoming fixtures for a given team across the top five European football leagues via a public API.  
+> **Tech:** Python
+
+---
+
+### [NthFibNum](https://github.com/CDAMXI/Projects/tree/main/Others/NthFibNum)
+> Implementations of the N-th Fibonacci number exploring iterative approaches and input validation.  
+> **Tech:** Java · Python
+
+---
+
+### [C-Playground](https://github.com/CDAMXI/Projects/tree/main/Others/C-Playground)
+> Low-level experiments in C: recursion, memory management, algorithms, and process-related concepts.  
+> **Tech:** C
+
+---
+
+### Other Exercises
+> BinaryToInteger · IntegerToBinary · CompareNames · CosmicTimeConverter · Patterns  
+> Small focused exercises on string handling, arithmetic operations, and output formatting.  
+> **Tech:** Java · Python
+
+---
+
+## 🌐 Back to Profile
+
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CDAMXI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-achong-mart%C3%ADn-840525305/)
+
+---
+
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:0B3C5D&height=120&section=footer)
